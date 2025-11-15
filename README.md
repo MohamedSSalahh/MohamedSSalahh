@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
-<h3 align="center">Full-Stack Developer — React • Next.js | Node.js | Express | MongoDB | TypeScript</h3>
+## Hi 👋, I'm Mohamed Salah
+### Full-Stack Developer — React • Next.js | Node.js | Express | MongoDB | TypeScript
+
+---
 
 ### 🚀 About Me  
 I’m a Full-Stack Developer with 5+ years of experience building scalable, modern web applications for startups, enterprise SaaS platforms, and government-level digital transformation projects.
