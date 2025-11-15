@@ -7,6 +7,18 @@ I’m a Full-Stack Developer with 5+ years of experience building scalable, mode
 
 I work across the full stack — designing clean UI architectures, building secure REST APIs, integrating payments, managing cloud deployments, and maintaining high-performance apps used by thousands.
 
+### 💼 Areas of Expertise
+- **Frontend Development:** React, Next.js, Tailwind, React Query, Redux, Vite  
+- **Backend Development:** Node.js, Express.js, REST APIs, JWT/Auth, Stripe  
+- **Databases:** MongoDB, PostgreSQL, MySQL, Redis  
+- **Cloud & DevOps:** Docker, CI/CD, Vercel, Netlify, Render, Heroku  
+- **Specialties:**  
+  - Scalable admin panels & dashboards  
+  - Subscription & payment integrations (Stripe)  
+  - PWA development (offline caching, manifest, service workers)  
+  - Full-stack SaaS architectures  
+  - Performance optimization & code quality (ESLint, Prettier)
+
 ### ⚡ What I am looking for
 I'm looking for a role that fosters innovation and collaboration, where I can leverage my skills in frontend and backend development to create impactful solutions.
 
