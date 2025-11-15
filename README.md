@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
-<h3 align="center">Frontend Developer | React • TypeScript • Next.js</h3>
+<h3 align="center">Full-Stack Developer — React • Next.js • Node.js • Express • MongoDB • TypeScript</h3>
 
 <p align="center">
   <a href="https://mohamedsalahportfolio.vercel.app/" target="_blank">
@@ -18,23 +18,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Java**
-- 👨‍💻 All of my projects are available at [mo-portfolio2025.vercel.app](https://mo-portfolio2025.vercel.app/)
-- 📫 How to reach me: **mohamedsalahh928@gmail.com**
+### 🚀 About Me  
+I’m a Senior Full-Stack Developer with 5+ years of experience building scalable, modern web applications for startups, enterprise SaaS platforms, and government-level digital transformation projects.
 
----
+I work across the full stack — designing clean UI architectures, building secure REST APIs, integrating payments, managing cloud deployments, and maintaining high-performance apps used by thousands.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Your icons here remain the same -->
-</p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSSalahh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSSalahh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
