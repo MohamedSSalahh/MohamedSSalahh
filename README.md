@@ -12,6 +12,8 @@ I work across the full stack — designing clean UI architectures, building secu
 
 ### ⚡ What I am looking for
 
+--
+
 I'm looking for a role that fosters innovation and collaboration, where I can leverage my skills in frontend and backend development to create impactful solutions.
 <p align="center">
   <a href="https://merndev.space/" target="_blank">
