@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
-<h3 align="center">Full-Stack Developer — React • Next.js • Node.js • Express • MongoDB • TypeScript</h3>
+<h3 align="center">Full-Stack Developer — React • Next.js | Node.js | Express | MongoDB | TypeScript</h3>
 
+---
+
+### 🚀 About Me  
+I’m a Full-Stack Developer with 5+ years of experience building scalable, modern web applications for startups, enterprise SaaS platforms, and government-level digital transformation projects.
+
+I work across the full stack — designing clean UI architectures, building secure REST APIs, integrating payments, managing cloud deployments, and maintaining high-performance apps used by thousands.
+
+---
+
+### ⚡ What I am looking for
+
+I'm looking for a role that fosters innovation and collaboration, where I can leverage my skills in frontend and backend development to create impactful solutions.
 <p align="center">
   <a href="https://merndev.space/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio Badge" />
@@ -15,12 +27,3 @@
     <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=google-drive" alt="CV Badge" />
   </a>
 </p>
-
----
-
-### 🚀 About Me  
-I’m a Full-Stack Developer with 5+ years of experience building scalable, modern web applications for startups, enterprise SaaS platforms, and government-level digital transformation projects.
-
-I work across the full stack — designing clean UI architectures, building secure REST APIs, integrating payments, managing cloud deployments, and maintaining high-performance apps used by thousands.
-
-
