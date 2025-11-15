@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
+---
 <h3 align="center">Full-Stack Developer — React • Next.js | Node.js | Express | MongoDB | TypeScript</h3>
 
 ---
@@ -11,10 +12,10 @@ I work across the full stack — designing clean UI architectures, building secu
 ---
 
 ### ⚡ What I am looking for
-
---
-
 I'm looking for a role that fosters innovation and collaboration, where I can leverage my skills in frontend and backend development to create impactful solutions.
+
+---
+
 <p align="center">
   <a href="https://merndev.space/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio Badge" />
