@@ -1,6 +1,4 @@
-## Hi 👋, I'm Mohamed Salah
-
-### Full-Stack Developer — React • Next.js | Node.js | Express | MongoDB | TypeScript
+## Full-Stack Developer — React • Next.js | Node.js | Express | MongoDB | TypeScript
 
 ### 🚀 About Me  
 I’m a Full-Stack Developer with 5+ years of experience building scalable, modern web applications for startups, enterprise SaaS platforms, and government-level digital transformation projects.
@@ -8,8 +6,8 @@ I’m a Full-Stack Developer with 5+ years of experience building scalable, mode
 I work across the full stack — designing clean UI architectures, building secure REST APIs, integrating payments, managing cloud deployments, and maintaining high-performance apps used by thousands.
 
 ### 💼 Areas of Expertise
-- **Frontend Development:** React, Next.js, Tailwind, React Query, Redux, Vite  
-- **Backend Development:** Node.js, Express.js, REST APIs, JWT/Auth, Stripe  
+- **Frontend Development:** React, Next.js, Tailwind, React Query, Redux, Vue.js  
+- **Backend Development:** Node.js, Express.js, REST APIs, JWT/Auth, Stripe, Dijango, Flask
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis  
 - **Cloud & DevOps:** Docker, CI/CD, Vercel, Netlify, Render, Heroku  
 - **Specialties:**  
