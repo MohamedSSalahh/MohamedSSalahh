@@ -1,4 +1,4 @@
-## Full-Stack Developer — React • Next.js | Node.js | Express | MongoDB | TypeScript
+## Full-Stack Developer — React • Next.js | Node.js | Express | MongoDB | Django
 
 ### 🚀 About Me  
 I’m a Full-Stack Developer with 5+ years of experience building scalable, modern web applications for startups, enterprise SaaS platforms, and government-level digital transformation projects.
