@@ -7,7 +7,7 @@ I work across the full stack — designing clean UI architectures, building secu
 
 ### 💼 Areas of Expertise
 - **Frontend Development:** React, Next.js, Tailwind, React Query, Redux, Vue.js  
-- **Backend Development:** Node.js, Express.js, REST APIs, JWT/Auth, Stripe, Dijango, Flask
+- **Backend Development:** Node.js, Express.js, REST APIs, JWT/Auth, Stripe, Django, Flask
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis  
 - **Cloud & DevOps:** Docker, CI/CD, Vercel, Netlify, Render, Heroku  
 - **Specialties:**  
